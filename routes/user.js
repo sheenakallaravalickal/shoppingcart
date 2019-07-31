@@ -58,3 +58,4 @@ router.get('/profile',function (req,res) {
     res.render('user/profile')
 });
 module.exports = router;
+
